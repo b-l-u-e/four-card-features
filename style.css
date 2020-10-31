@@ -35,8 +35,9 @@
   .secondheading{
     font-weight: var(--font-weight-regular) ;
       font-size: 2rem;
-      color:var(--Grayish-Blue);;
+      color:var(--Dark-Blue);;
       margin-bottom: 10px;
+      
   }
   
   .heading-paragraph{
